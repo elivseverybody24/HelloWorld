@@ -2,8 +2,15 @@ target/
 h2/
 history_log.txt
 testCases_log.txt
+<<<<<<< HEAD
 restructure_tmp/
 restructured_labs/
 .revature/tmp
 .vscode
 .idea/
+=======
+
+history_log.txt
+testCases_log.txt
+commit-command.sh
+>>>>>>> 859f8ae (File Commit From RevPro)
