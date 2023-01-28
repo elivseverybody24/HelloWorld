@@ -1,7 +1,13 @@
+
 public class Lab {
     /**
      * TODO: Change this method so that it returns "Hello, world!"
      *
+=======
+import org.eclipse.jetty.util.Scanner;
+
+/**
+>>>>>>> 6b9084d (Lab2):src/main/java/HelloWorld.java
      * This method currently contains the line:
      * return "change me";
      * That means that this method is a piece of code that produces a String "change me", 
@@ -14,7 +20,16 @@ public class Lab {
      * 
      * @return "Hello, world!"
      */
+    public class HelloWorld {
+        public void main(String[] args) {
+
+        }
+
+            
+
+
+    
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
     }
-}
+}}
