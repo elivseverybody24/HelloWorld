@@ -24,10 +24,6 @@ import org.eclipse.jetty.util.Scanner;
         public void main(String[] args) {
 
         }
-
-            
-
-
     
     public String sayHello(){
         return "Hello, world!";
